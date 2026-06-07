@@ -442,3 +442,4 @@ $RECYCLE.BIN/
 !.vscode/extensions.json
 /API/Properties/launchSettings.json
 /.bruno/TTbank_Deposit/v1/AppointmentBooking/GetReservationSessions.bru
+/MyApp/Properties/launchSettings.json
