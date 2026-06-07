@@ -25,7 +25,9 @@ services:
       - appnetwork
 
   myapp:
-    build: .              
+    build:
+      context: .
+      dockerfile: MyApp/Dockerfile
     container_name: myapiapp_container
     ports:
       - "8080:8080"

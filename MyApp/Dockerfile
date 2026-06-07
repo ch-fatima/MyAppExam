@@ -6,18 +6,23 @@ EXPOSE 8081
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
-COPY ["MyApp/ApiApp.csproj", "ApiApp/"]
-COPY ["Core/Core.csproj", "Core/"]
-COPY ["InfraStructure/InfraStructure.csproj", "InfraStructure/"]
+# کپی کردن فایل‌های پروژه با حفظ نام پوشه‌ها
+# دقت کنید: مقصد هم دقیقا همان مسیر اصلی است
+COPY ["MyApp/ApiApp.csproj", "MyApp/"]
+COPY ["MyApp/Nuget.config", "MyApp/"] 
 COPY ["Application/Application.csproj", "Application/"]
-COPY ["AllTests/AllTests.csproj", "AllTests/"]
+COPY ["Infrastructure/Infrastructure.csproj", "Infrastructure/"]
+COPY ["Core/Core.csproj", "Core/"]
 
-RUN dotnet restore "MyApp/ApiApp.csproj"
+# دستور Restore را با همان مسیرهای بالا اجرا کنید
+RUN dotnet restore "MyApp/ApiApp.csproj" --configfile "MyApp/Nuget.config"
 
+# حالا کل سورس را کپی کنید
 COPY . .
 
-WORKDIR "/src/ApiApp"
-RUN dotnet publish "ApiApp.csproj" -c Release -o /app/build
+# رفتن به پوشه MyApp برای بیلد
+WORKDIR "/src/MyApp"
+RUN dotnet build "ApiApp.csproj" -c Release -o /app/build --no-restore
 
 FROM build AS publish
 RUN dotnet publish "ApiApp.csproj" -c Release -o /app/publish --no-restore -p:UseAppHost=false
@@ -25,5 +30,4 @@ RUN dotnet publish "ApiApp.csproj" -c Release -o /app/publish --no-restore -p:Us
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
-
-ENTRYPOINT ["dotnet","ApiApp.dll"]
+ENTRYPOINT ["dotnet", "ApiApp.dll"]
