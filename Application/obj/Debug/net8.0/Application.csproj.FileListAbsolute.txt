@@ -27,6 +27,7 @@ F:\Chourli_14050313\MyApp\Application\obj\Debug\net8.0\Application.GeneratedMSBu
 F:\Chourli_14050313\MyApp\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
 F:\Chourli_14050313\MyApp\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
 F:\Chourli_14050313\MyApp\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+F:\Chourli_14050313\MyApp\Application\obj\Debug\net8.0\Application.sourcelink.json
 F:\Chourli_14050313\MyApp\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
 F:\Chourli_14050313\MyApp\Application\obj\Debug\net8.0\Application.dll
 F:\Chourli_14050313\MyApp\Application\obj\Debug\net8.0\refint\Application.dll

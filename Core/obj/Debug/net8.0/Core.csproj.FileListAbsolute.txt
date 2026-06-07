@@ -18,6 +18,7 @@ F:\Chourli_14050313\MyApp\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfi
 F:\Chourli_14050313\MyApp\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
 F:\Chourli_14050313\MyApp\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
 F:\Chourli_14050313\MyApp\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+F:\Chourli_14050313\MyApp\Core\obj\Debug\net8.0\Core.sourcelink.json
 F:\Chourli_14050313\MyApp\Core\obj\Debug\net8.0\Core.dll
 F:\Chourli_14050313\MyApp\Core\obj\Debug\net8.0\refint\Core.dll
 F:\Chourli_14050313\MyApp\Core\obj\Debug\net8.0\Core.pdb

@@ -1,9 +1,4 @@
 F:\Chourli_14050313\MyApp\AllTests\bin\Debug\net8.0\.msCoverageSourceRootsMapping_AllTests
-F:\Chourli_14050313\MyApp\AllTests\obj\Debug\net8.0\AllTests.csproj.AssemblyReference.cache
-F:\Chourli_14050313\MyApp\AllTests\obj\Debug\net8.0\AllTests.GeneratedMSBuildEditorConfig.editorconfig
-F:\Chourli_14050313\MyApp\AllTests\obj\Debug\net8.0\AllTests.AssemblyInfoInputs.cache
-F:\Chourli_14050313\MyApp\AllTests\obj\Debug\net8.0\AllTests.AssemblyInfo.cs
-F:\Chourli_14050313\MyApp\AllTests\obj\Debug\net8.0\AllTests.csproj.CoreCompileInputs.cache
 F:\Chourli_14050313\MyApp\AllTests\bin\Debug\net8.0\testhost.dll
 F:\Chourli_14050313\MyApp\AllTests\bin\Debug\net8.0\ApiApp.deps.json
 F:\Chourli_14050313\MyApp\AllTests\bin\Debug\net8.0\ApiApp.runtimeconfig.json
@@ -190,6 +185,12 @@ F:\Chourli_14050313\MyApp\AllTests\bin\Debug\net8.0\Infrastructure.pdb
 F:\Chourli_14050313\MyApp\AllTests\bin\Debug\net8.0\ApiApp.pdb
 F:\Chourli_14050313\MyApp\AllTests\bin\Debug\net8.0\Application.pdb
 F:\Chourli_14050313\MyApp\AllTests\bin\Debug\net8.0\Core.pdb
+F:\Chourli_14050313\MyApp\AllTests\obj\Debug\net8.0\AllTests.csproj.AssemblyReference.cache
+F:\Chourli_14050313\MyApp\AllTests\obj\Debug\net8.0\AllTests.GeneratedMSBuildEditorConfig.editorconfig
+F:\Chourli_14050313\MyApp\AllTests\obj\Debug\net8.0\AllTests.AssemblyInfoInputs.cache
+F:\Chourli_14050313\MyApp\AllTests\obj\Debug\net8.0\AllTests.AssemblyInfo.cs
+F:\Chourli_14050313\MyApp\AllTests\obj\Debug\net8.0\AllTests.csproj.CoreCompileInputs.cache
+F:\Chourli_14050313\MyApp\AllTests\obj\Debug\net8.0\AllTests.sourcelink.json
 F:\Chourli_14050313\MyApp\AllTests\obj\Debug\net8.0\AllTests.csproj.Up2Date
 F:\Chourli_14050313\MyApp\AllTests\obj\Debug\net8.0\AllTests.dll
 F:\Chourli_14050313\MyApp\AllTests\obj\Debug\net8.0\refint\AllTests.dll

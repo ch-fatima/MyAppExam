@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "F:\\Chourli_14050313\\MyApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CCA98E5C-6AF9-41F9-9A46-FF99F14719CB}|MyApp\\ApiApp.csproj|f:\\chourli_14050313\\myapp\\myapp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{CCA98E5C-6AF9-41F9-9A46-FF99F14719CB}|MyApp\\ApiApp.csproj|solutionrelative:myapp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{CCA98E5C-6AF9-41F9-9A46-FF99F14719CB}|MyApp\\ApiApp.csproj|f:\\chourli_14050313\\myapp\\myapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CCA98E5C-6AF9-41F9-9A46-FF99F14719CB}|MyApp\\ApiApp.csproj|solutionrelative:myapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CCA98E5C-6AF9-41F9-9A46-FF99F14719CB}|MyApp\\ApiApp.csproj|f:\\chourli_14050313\\myapp\\myapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -79,10 +79,6 @@
       "RelativeMoniker": "D:0:0:{8C636871-13C8-4C49-A31D-58801B5F6553}|Core\\Core.csproj|solutionrelative:core\\attribute\\datevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCA98E5C-6AF9-41F9-9A46-FF99F14719CB}|MyApp\\ApiApp.csproj|f:\\chourli_14050313\\myapp\\myapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CCA98E5C-6AF9-41F9-9A46-FF99F14719CB}|MyApp\\ApiApp.csproj|solutionrelative:myapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0E42E511-6911-45A5-9D32-9D550BBF1557}|Infrastructure\\Infrastructure.csproj|f:\\chourli_14050313\\myapp\\infrastructure\\repositories\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E42E511-6911-45A5-9D32-9D550BBF1557}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -126,7 +122,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -134,15 +130,51 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRequestProperties.cs",
+              "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\Infrastructure\\Logger\\UserRequestProperties.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Logger\\UserRequestProperties.cs",
+              "ToolTip": "F:\\Chourli_14050313\\MyApp\\Infrastructure\\Logger\\UserRequestProperties.cs",
+              "RelativeToolTip": "Infrastructure\\Logger\\UserRequestProperties.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T12:03:31.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoggerManager.cs",
+              "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\Infrastructure\\Logger\\LoggerManager.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Logger\\LoggerManager.cs",
+              "ToolTip": "F:\\Chourli_14050313\\MyApp\\Infrastructure\\Logger\\LoggerManager.cs",
+              "RelativeToolTip": "Infrastructure\\Logger\\LoggerManager.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T12:03:25.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ILoggerManager.cs",
+              "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\Infrastructure\\Logger\\ILoggerManager.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Logger\\ILoggerManager.cs",
+              "ToolTip": "F:\\Chourli_14050313\\MyApp\\Infrastructure\\Logger\\ILoggerManager.cs",
+              "RelativeToolTip": "Infrastructure\\Logger\\ILoggerManager.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T12:03:20.057Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\MyApp\\.gitignore",
-              "RelativeDocumentMoniker": "MyApp\\.gitignore",
-              "ToolTip": "F:\\Chourli_14050313\\MyApp\\MyApp\\.gitignore",
-              "RelativeToolTip": "MyApp\\.gitignore",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2026-06-07T12:13:44.244Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\MyApp\\appsettings.json",
+              "RelativeDocumentMoniker": "MyApp\\appsettings.json",
+              "ToolTip": "F:\\Chourli_14050313\\MyApp\\MyApp\\appsettings.json",
+              "RelativeToolTip": "MyApp\\appsettings.json",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-07T09:29:53.294Z",
               "EditorCaption": ""
             },
             {
@@ -155,47 +187,7 @@
               "RelativeToolTip": "MyApp\\Controllers\\BaseController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T12:04:05.591Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserRequestProperties.cs",
-              "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\Infrastructure\\Logger\\UserRequestProperties.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Logger\\UserRequestProperties.cs",
-              "ToolTip": "F:\\Chourli_14050313\\MyApp\\Infrastructure\\Logger\\UserRequestProperties.cs",
-              "RelativeToolTip": "Infrastructure\\Logger\\UserRequestProperties.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T12:03:31.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoggerManager.cs",
-              "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\Infrastructure\\Logger\\LoggerManager.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Logger\\LoggerManager.cs",
-              "ToolTip": "F:\\Chourli_14050313\\MyApp\\Infrastructure\\Logger\\LoggerManager.cs",
-              "RelativeToolTip": "Infrastructure\\Logger\\LoggerManager.cs",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T12:03:25.186Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ILoggerManager.cs",
-              "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\Infrastructure\\Logger\\ILoggerManager.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Logger\\ILoggerManager.cs",
-              "ToolTip": "F:\\Chourli_14050313\\MyApp\\Infrastructure\\Logger\\ILoggerManager.cs",
-              "RelativeToolTip": "Infrastructure\\Logger\\ILoggerManager.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T12:03:20.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T12:04:05.591Z"
             },
             {
               "$type": "Document",
@@ -207,8 +199,7 @@
               "RelativeToolTip": "MyApp\\Controllers\\UserController.cs",
               "ViewState": "AgIAAGUAAAAAAAAAAAAAAGwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T11:54:04.718Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T11:54:04.718Z"
             },
             {
               "$type": "Document",
@@ -220,8 +211,7 @@
               "RelativeToolTip": "MyApp\\Controllers\\BadHandlingController.cs",
               "ViewState": "AgIAAFUAAAAAAAAAAAD4vyMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T09:29:32.227Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T09:29:32.227Z"
             },
             {
               "$type": "Document",
@@ -233,8 +223,7 @@
               "RelativeToolTip": "Infrastructure\\Logger\\ExternalServicesLogModel.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T12:03:16.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T12:03:16.351Z"
             },
             {
               "$type": "Document",
@@ -246,8 +235,7 @@
               "RelativeToolTip": "Infrastructure\\Logger\\EServiceType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T12:03:04.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T12:03:04.404Z"
             },
             {
               "$type": "Document",
@@ -259,8 +247,7 @@
               "RelativeToolTip": "Infrastructure\\Logger\\ERunningStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T12:02:57.137Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T12:02:57.137Z"
             },
             {
               "$type": "Document",
@@ -272,8 +259,7 @@
               "RelativeToolTip": "Infrastructure\\Cryptography\\ICryptographyService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T12:02:53.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T12:02:53.32Z"
             },
             {
               "$type": "Document",
@@ -285,8 +271,7 @@
               "RelativeToolTip": "Infrastructure\\Cryptography\\AesGcmService.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAwwEIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T12:02:17.265Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T12:02:17.265Z"
             },
             {
               "$type": "Document",
@@ -298,8 +283,7 @@
               "RelativeToolTip": "Core\\ApiResults\\ApiResultStatusCode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T12:02:01.536Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T12:02:01.536Z"
             },
             {
               "$type": "Document",
@@ -311,8 +295,7 @@
               "RelativeToolTip": "MyApp\\Middlewares\\CustomExceptionHandlerMiddleware.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAAwCMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T11:06:15.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T11:06:15.884Z"
             },
             {
               "$type": "Document",
@@ -324,8 +307,7 @@
               "RelativeToolTip": "Application\\User\\Command\\LogOut\\LogOutCommandHandler.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAYwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T09:29:32.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T09:29:32.251Z"
             },
             {
               "$type": "Document",
@@ -337,8 +319,7 @@
               "RelativeToolTip": "Core\\Attribute\\DateValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAYwAsAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T09:29:32.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T09:29:32.494Z"
             },
             {
               "$type": "Document",
@@ -350,8 +331,7 @@
               "RelativeToolTip": "Application\\User\\Command\\RefreshToken\\RefreshTokenCommandHandler.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAAwCEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T09:29:32.278Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T09:29:32.278Z"
             },
             {
               "$type": "Document",
@@ -363,8 +343,7 @@
               "RelativeToolTip": "MyApp\\Properties\\launchSettings.json",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-06T22:31:15.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-06T22:31:15.201Z"
             },
             {
               "$type": "Document",
@@ -376,25 +355,11 @@
               "RelativeToolTip": "MyApp\\Middlewares\\SecurityHeadersMiddleware.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAIwD8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T09:09:58.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T09:09:58.842Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\MyApp\\appsettings.json",
-              "RelativeDocumentMoniker": "MyApp\\appsettings.json",
-              "ToolTip": "F:\\Chourli_14050313\\MyApp\\MyApp\\appsettings.json",
-              "RelativeToolTip": "MyApp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-07T09:29:53.294Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "SafeInputValidationAttribute.cs",
               "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\Core\\Attribute\\SafeInputValidationAttribute.cs",
               "RelativeDocumentMoniker": "Core\\Attribute\\SafeInputValidationAttribute.cs",
@@ -402,12 +367,11 @@
               "RelativeToolTip": "Core\\Attribute\\SafeInputValidationAttribute.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAYwBAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T10:34:01.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T10:34:01.272Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "LoginCommandHandler.cs",
               "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\Application\\User\\Command\\Login\\LoginCommandHandler.cs",
               "RelativeDocumentMoniker": "Application\\User\\Command\\Login\\LoginCommandHandler.cs",
@@ -415,12 +379,11 @@
               "RelativeToolTip": "Application\\User\\Command\\Login\\LoginCommandHandler.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAzwCEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T10:34:01.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T10:34:01.155Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\Infrastructure\\Repositories\\Repository\\UserRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repositories\\Repository\\UserRepository.cs",
@@ -428,12 +391,11 @@
               "RelativeToolTip": "Infrastructure\\Repositories\\Repository\\UserRepository.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAzwDQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T10:34:01.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T10:34:01.067Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "ApiResultFilterAttribute.cs",
               "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\Core\\Attribute\\ApiResultFilterAttribute.cs",
               "RelativeDocumentMoniker": "Core\\Attribute\\ApiResultFilterAttribute.cs",
@@ -441,12 +403,11 @@
               "RelativeToolTip": "Core\\Attribute\\ApiResultFilterAttribute.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAYwAsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T09:29:32.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T09:29:32.546Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "Dockerfile",
               "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\MyApp\\Dockerfile",
               "RelativeDocumentMoniker": "MyApp\\Dockerfile",
@@ -454,12 +415,11 @@
               "RelativeToolTip": "MyApp\\Dockerfile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-06-07T10:09:04.788Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T10:09:04.788Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 24,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\MyApp\\docker-compose.yml",
               "RelativeDocumentMoniker": "MyApp\\docker-compose.yml",
@@ -467,25 +427,23 @@
               "RelativeToolTip": "MyApp\\docker-compose.yml",
               "ViewState": "AgIAABYAAAAAAAAAAAAowCoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2026-06-06T22:30:55.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-06T22:30:55.313Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "AllTests",
+              "DocumentIndex": 25,
+              "Title": "AllTests.csproj",
               "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\AllTests\\AllTests.csproj",
               "RelativeDocumentMoniker": "AllTests\\AllTests.csproj",
               "ToolTip": "F:\\Chourli_14050313\\MyApp\\AllTests\\AllTests.csproj",
               "RelativeToolTip": "AllTests\\AllTests.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-07T10:09:27.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T10:09:27.177Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 27,
               "Title": "ServiceCollectionExtensions.cs",
               "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\MyApp\\ServiceCollectionExtensions.cs",
               "RelativeDocumentMoniker": "MyApp\\ServiceCollectionExtensions.cs",
@@ -493,12 +451,11 @@
               "RelativeToolTip": "MyApp\\ServiceCollectionExtensions.cs",
               "ViewState": "AgIAAEEAAAAAAAAAAAAiwE0AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T09:06:52.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T09:06:52.953Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 26,
               "Title": "StartUp.cs",
               "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\MyApp\\StartUp.cs",
               "RelativeDocumentMoniker": "MyApp\\StartUp.cs",
@@ -506,8 +463,7 @@
               "RelativeToolTip": "MyApp\\StartUp.cs",
               "ViewState": "AgIAAGIAAAAAAAAAAAAAAGwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T09:06:34.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T09:06:34.668Z"
             }
           ]
         }

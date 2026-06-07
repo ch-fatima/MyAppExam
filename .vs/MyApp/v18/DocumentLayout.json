@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{CCA98E5C-6AF9-41F9-9A46-FF99F14719CB}|MyApp\\ApiApp.csproj|solutionrelative:myapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCA98E5C-6AF9-41F9-9A46-FF99F14719CB}|MyApp\\ApiApp.csproj|f:\\chourli_14050313\\myapp\\myapp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{CCA98E5C-6AF9-41F9-9A46-FF99F14719CB}|MyApp\\ApiApp.csproj|solutionrelative:myapp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CCA98E5C-6AF9-41F9-9A46-FF99F14719CB}|MyApp\\ApiApp.csproj|f:\\chourli_14050313\\myapp\\myapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCA98E5C-6AF9-41F9-9A46-FF99F14719CB}|MyApp\\ApiApp.csproj|solutionrelative:myapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -126,7 +122,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -134,20 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": ".gitignore",
-              "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\MyApp\\.gitignore",
-              "RelativeDocumentMoniker": "MyApp\\.gitignore",
-              "ToolTip": "F:\\Chourli_14050313\\MyApp\\MyApp\\.gitignore",
-              "RelativeToolTip": "MyApp\\.gitignore",
-              "ViewState": "AgIAAE8AAAAAAAAAAADwv1kAAAAIAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2026-06-07T12:13:44.244Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "UserRequestProperties.cs",
               "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\Infrastructure\\Logger\\UserRequestProperties.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Logger\\UserRequestProperties.cs",
@@ -159,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "LoggerManager.cs",
               "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\Infrastructure\\Logger\\LoggerManager.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Logger\\LoggerManager.cs",
@@ -171,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "ILoggerManager.cs",
               "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\Infrastructure\\Logger\\ILoggerManager.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Logger\\ILoggerManager.cs",
@@ -196,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "BaseController.cs",
               "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\MyApp\\Controllers\\BaseController.cs",
               "RelativeDocumentMoniker": "MyApp\\Controllers\\BaseController.cs",
@@ -208,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "UserController.cs",
               "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\MyApp\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "MyApp\\Controllers\\UserController.cs",
@@ -220,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "BadHandlingController.cs",
               "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\MyApp\\Controllers\\BadHandlingController.cs",
               "RelativeDocumentMoniker": "MyApp\\Controllers\\BadHandlingController.cs",
@@ -232,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "ExternalServicesLogModel.cs",
               "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\Infrastructure\\Logger\\ExternalServicesLogModel.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Logger\\ExternalServicesLogModel.cs",
@@ -244,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "EServiceType.cs",
               "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\Infrastructure\\Logger\\EServiceType.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Logger\\EServiceType.cs",
@@ -256,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "ERunningStatus.cs",
               "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\Infrastructure\\Logger\\ERunningStatus.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Logger\\ERunningStatus.cs",
@@ -268,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "ICryptographyService.cs",
               "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\Infrastructure\\Cryptography\\ICryptographyService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Cryptography\\ICryptographyService.cs",
@@ -280,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "AesGcmService.cs",
               "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\Infrastructure\\Cryptography\\AesGcmService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Cryptography\\AesGcmService.cs",
@@ -292,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "ApiResultStatusCode.cs",
               "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\Core\\ApiResults\\ApiResultStatusCode.cs",
               "RelativeDocumentMoniker": "Core\\ApiResults\\ApiResultStatusCode.cs",
@@ -304,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "CustomExceptionHandlerMiddleware.cs",
               "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\MyApp\\Middlewares\\CustomExceptionHandlerMiddleware.cs",
               "RelativeDocumentMoniker": "MyApp\\Middlewares\\CustomExceptionHandlerMiddleware.cs",
@@ -316,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "LogOutCommandHandler.cs",
               "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\Application\\User\\Command\\LogOut\\LogOutCommandHandler.cs",
               "RelativeDocumentMoniker": "Application\\User\\Command\\LogOut\\LogOutCommandHandler.cs",
@@ -328,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "DateValidator.cs",
               "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\Core\\Attribute\\DateValidator.cs",
               "RelativeDocumentMoniker": "Core\\Attribute\\DateValidator.cs",
@@ -340,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "RefreshTokenCommandHandler.cs",
               "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\Application\\User\\Command\\RefreshToken\\RefreshTokenCommandHandler.cs",
               "RelativeDocumentMoniker": "Application\\User\\Command\\RefreshToken\\RefreshTokenCommandHandler.cs",
@@ -352,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "launchSettings.json",
               "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\MyApp\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "MyApp\\Properties\\launchSettings.json",
@@ -364,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "SecurityHeadersMiddleware.cs",
               "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\MyApp\\Middlewares\\SecurityHeadersMiddleware.cs",
               "RelativeDocumentMoniker": "MyApp\\Middlewares\\SecurityHeadersMiddleware.cs",
@@ -376,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "SafeInputValidationAttribute.cs",
               "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\Core\\Attribute\\SafeInputValidationAttribute.cs",
               "RelativeDocumentMoniker": "Core\\Attribute\\SafeInputValidationAttribute.cs",
@@ -388,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "LoginCommandHandler.cs",
               "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\Application\\User\\Command\\Login\\LoginCommandHandler.cs",
               "RelativeDocumentMoniker": "Application\\User\\Command\\Login\\LoginCommandHandler.cs",
@@ -400,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\Infrastructure\\Repositories\\Repository\\UserRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repositories\\Repository\\UserRepository.cs",
@@ -412,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "ApiResultFilterAttribute.cs",
               "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\Core\\Attribute\\ApiResultFilterAttribute.cs",
               "RelativeDocumentMoniker": "Core\\Attribute\\ApiResultFilterAttribute.cs",
@@ -424,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "Dockerfile",
               "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\MyApp\\Dockerfile",
               "RelativeDocumentMoniker": "MyApp\\Dockerfile",
@@ -436,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 24,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\MyApp\\docker-compose.yml",
               "RelativeDocumentMoniker": "MyApp\\docker-compose.yml",
@@ -448,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 25,
               "Title": "AllTests.csproj",
               "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\AllTests\\AllTests.csproj",
               "RelativeDocumentMoniker": "AllTests\\AllTests.csproj",
@@ -460,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 27,
               "Title": "ServiceCollectionExtensions.cs",
               "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\MyApp\\ServiceCollectionExtensions.cs",
               "RelativeDocumentMoniker": "MyApp\\ServiceCollectionExtensions.cs",
@@ -472,7 +455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 26,
               "Title": "StartUp.cs",
               "DocumentMoniker": "F:\\Chourli_14050313\\MyApp\\MyApp\\StartUp.cs",
               "RelativeDocumentMoniker": "MyApp\\StartUp.cs",
