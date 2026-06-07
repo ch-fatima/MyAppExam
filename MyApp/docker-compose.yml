@@ -1,0 +1,43 @@
+services:
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: sqlserver
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=UserApiDb_1405
+      - MSSQL_PID=Evaluation
+    ports:
+      - "1446:1433"
+    volumes:
+      - sql_data:/var/opt/mssql
+    networks:
+      - appnetwork
+
+  seq:
+    image: datalust/seq
+    container_name: seq
+    environment:
+      - ACCEPT_EULA=Y
+      - SEQ_FIRSTRUN_ADMINPASSWORD=Admin123!
+    ports:
+      - "5341:80"
+    networks:
+      - appnetwork
+
+  myapp:
+    build: .              
+    container_name: myapiapp_container
+    ports:
+      - "8080:8080"
+    depends_on:
+      - sqlserver
+      - seq
+    networks:
+      - appnetwork
+
+volumes:
+  sql_data:
+
+networks:
+  appnetwork:
+    driver: bridge

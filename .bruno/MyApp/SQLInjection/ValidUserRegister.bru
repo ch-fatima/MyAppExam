@@ -1,0 +1,64 @@
+meta {
+  name: ValidUserRegister
+  type: http
+  seq: 1
+}
+
+post {
+  url: https://localhost:7294/BadHandling/BadUserRegister
+  body: json
+  auth: inherit
+}
+
+body:json {
+  {
+    "FirstName": "reza",
+    "lastName": "rezaie",
+    "email": "ali_rezaie@gmail.com",
+    "userName": "reza",
+    "password": "123456",
+    "roleId": "{{defaultRoleId}}",
+    "phoneNo": "09888888888"
+  }
+}
+
+script:post-response {
+  const tester = {
+    testStatus: (expectedCode) => {
+      test(`Response status code should be ${expectedCode}`, () => {
+        const data = res.getBody();
+        expect(data.statusCode).to.equal(expectedCode);
+      });
+    },
+    testResponseStructure: (hasData = true) => {
+      test("Response structure is valid", () => {
+        const data = res.getBody();
+        expect(data).to.have.property("isSuccess").that.is.a("boolean");
+        expect(data).to.have.property("statusCode").that.is.a("number");
+        expect(data).to.have.property("message").that.is.a("string");
+        if (hasData) {
+          expect(data).to.have.property("data");
+        }
+      });
+    },
+    testResponseTime: (ms = 3000) => {
+      test(`Response time should be below ${ms}ms`, () => {
+        expect(res.getResponseTime()).to.be.below(ms);
+      });
+    }
+  };
+  tester.testStatus(0);
+  tester.testStatus(1);
+  tester.testStatus(2);
+  tester.testStatus(3);
+  tester.testStatus(4);
+  tester.testStatus(5);
+  tester.testStatus(6);
+  tester.testResponseStructure(true);
+  tester.testResponseTime(500);
+}
+
+settings {
+  encodeUrl: true
+  timeout: 0
+}
